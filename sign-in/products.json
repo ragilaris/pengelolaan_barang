@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "name": "kipas angin",
+        "description": "kipas angin maspion",
+        "price": "3000000",
+        "category": "Elektronik",
+        "availability": "Tidak Tersedia"
+    },
+    {
+        "id": "2",
+        "name": "reel shimano",
+        "description": "reel shimano stella",
+        "price": "1000000",
+        "category": "alat pancing",
+        "availability": "Tersedia"
+    },
+    {
+        "id": "3",
+        "name": "joran shimano",
+        "description": "joran shimano scorpion",
+        "price": "5000000",
+        "category": "alat pancing",
+        "availability": "Tersedia"
+    },
+    {
+        "id": "4",
+        "name": "lampu",
+        "description": "lampu",
+        "price": "20000",
+        "category": "elekteonik",
+        "availability": "Tidak Tersedia"
+    },
+    {
+        "id": "5",
+        "name": "kaos",
+        "description": "koas cotton combat 24s",
+        "price": "50000",
+        "category": "pakaian",
+        "availability": "Tidak Tersedia"
+    },
+    {
+        "name": "monitor",
+        "description": "monitor xiaomi 20inc",
+        "price": "2000000",
+        "category": "elektronik",
+        "availability": "Tersedia",
+        "id": 6
+    },
+    {
+        "name": "minnow",
+        "description": "minnow deep 15 gram",
+        "price": "25000",
+        "category": "alat mancing",
+        "availability": "Tersedia",
+        "id": 7
+    }
+]
